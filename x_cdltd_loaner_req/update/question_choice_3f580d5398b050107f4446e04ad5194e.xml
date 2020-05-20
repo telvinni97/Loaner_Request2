@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>3</order>
+        <question display_value="Depot">3f580d5398b050107f4446e04ad5193f</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 21:33:09</sys_created_on>
+        <sys_id>3f580d5398b050107f4446e04ad5194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Santa Clara</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">d8573e2d204523007f4471dbf508ccaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d8573e2d204523007f4471dbf508ccaf</sys_scope>
+        <sys_update_name>question_choice_3f580d5398b050107f4446e04ad5194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 21:33:09</sys_updated_on>
+        <text>Santa Clara</text>
+        <value>sc</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=3f580d5398b050107f4446e04ad5194e"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>3f580d5398b050107f4446e04ad5194e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 21:33:09</sys_created_on>
+        <sys_id>bf580d5398b050107f4446e04ad5194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 21:33:09</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>3f580d5398b050107f4446e04ad5194e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 21:33:09</sys_created_on>
+        <sys_id>77580d5398b050107f4446e04ad5194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 21:33:09</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
