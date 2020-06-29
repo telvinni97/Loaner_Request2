@@ -4,16 +4,21 @@ First place for a community connecting application developed using ServiceNow ap
 
 Client side:
 
+Mobile user experience with pop ups that explain fields.
 <p align="center"><img src= "https://github.com/telvinzhong/Loaner_Request/blob/master/x_cdltd_loaner_req/dictionary/servicea.png"></p>
 
+Desktop user experience.
 <p align="center"><img src= "https://github.com/telvinzhong/Loaner_Request/blob/master/x_cdltd_loaner_req/dictionary/serviceb.png"></p>
 
+Javascript client scripts hide the "Other" form until "Other" is selected as a Job Type.
 <p align="center"><img src= "https://github.com/telvinzhong/Loaner_Request/blob/master/x_cdltd_loaner_req/dictionary/servicec.png"></p>
 
 Server side:
 
+Fully automated matching and contacting of employers and employees via email.
 <p align="center"><img src= "https://github.com/telvinzhong/Loaner_Request/blob/master/x_cdltd_loaner_req/dictionary/serviced.png"></p>
 
+Matching is done by desired start and end date, job type, and location.
 <p align="center"><img src= "https://github.com/telvinzhong/Loaner_Request/blob/master/x_cdltd_loaner_req/dictionary/servicee.png"></p>
 
 
