@@ -1,6 +1,6 @@
 # 2020 Accenture ServiceNow Hackathon
 
-First place for a community connecting application developed using ServiceNow app development platforms. Our application, H Help, focuses on connecting those who lost their jobs due to COVID-19 with paid jobs helping others through small errands such as food delivery and cleaning. 
+First place for a COVID-19 response application developed using ServiceNow app development platforms. Our application, H Help, focuses on connecting those who lost their jobs due to COVID-19 with paid jobs helping others through small errands such as food delivery and cleaning. Application supports both mobile and desktop and has many possible features to be added in the future. 
 
 Client side:
 
